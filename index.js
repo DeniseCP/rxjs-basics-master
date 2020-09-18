@@ -1,3 +1,4 @@
+/* eslint-disable object-curly-spacing */
 import { of } from 'rxjs';
 
 /*
